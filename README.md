@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# TurnOnTheLight
+这是十点关灯项目的预览链接
+https://a985987819.github.io/TurnOnTheLight/src/index.html
+
+
+>>>>>>> d9bb94eb22afe923db5d10d1c25ec48bc70296e2
 # 开发
 
 ```
@@ -23,4 +31,8 @@ rm -rf dist
 和
 build src/index.html --no-minify --public-url ./
 这两行代码
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> d9bb94eb22afe923db5d10d1c25ec48bc70296e2
