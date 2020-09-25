@@ -1,5 +1,13 @@
 {
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html --no-minify "
+  },
   "devDependencies": {
     "cssnano": "^4.1.10"
-  }
+  },
+  "name": "nav-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "laoduan <985987819@qq.com>",
+  "license": "MIT"
 }
